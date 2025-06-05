@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/dashboard-by-me/static/css/main.637c8cc9.css",
-    "main.js": "/dashboard-by-me/static/js/main.c796c9e1.js",
-    "static/media/user1.jpg": "/dashboard-by-me/static/media/user1.7fee60532eccc9db7478.jpg",
-    "static/media/user2.jpg": "/dashboard-by-me/static/media/user2.e60c2f3660766b951549.jpg",
-    "static/media/user3.jpg": "/dashboard-by-me/static/media/user3.ff332e3923b7a6e4e789.jpg",
-    "static/media/user4.jpg": "/dashboard-by-me/static/media/user4.0a05ffaef2342a99af9f.jpg",
-    "static/media/user5.jpg": "/dashboard-by-me/static/media/user5.55506fbf87d3c3f7f209.jpg",
-    "static/media/banner.jpg": "/dashboard-by-me/static/media/banner.13cd40e5c743c17d1984.jpg",
-    "static/media/product3.jpg": "/dashboard-by-me/static/media/product3.0d1203b2cec16b85ceea.jpg",
-    "static/media/product1.jpg": "/dashboard-by-me/static/media/product1.7e736ad635159669f94c.jpg",
-    "static/media/product2.jpg": "/dashboard-by-me/static/media/product2.8d7a898a3ca92993b410.jpg",
-    "index.html": "/dashboard-by-me/index.html",
-    "main.637c8cc9.css.map": "/dashboard-by-me/static/css/main.637c8cc9.css.map",
-    "main.c796c9e1.js.map": "/dashboard-by-me/static/js/main.c796c9e1.js.map"
+    "main.css": "/react-js-dashboard/static/css/main.33148b1c.css",
+    "main.js": "/react-js-dashboard/static/js/main.b2349912.js",
+    "static/media/user1.jpg": "/react-js-dashboard/static/media/user1.7fee60532eccc9db7478.jpg",
+    "static/media/user2.jpg": "/react-js-dashboard/static/media/user2.e60c2f3660766b951549.jpg",
+    "static/media/user3.jpg": "/react-js-dashboard/static/media/user3.ff332e3923b7a6e4e789.jpg",
+    "static/media/user4.jpg": "/react-js-dashboard/static/media/user4.0a05ffaef2342a99af9f.jpg",
+    "static/media/user5.jpg": "/react-js-dashboard/static/media/user5.55506fbf87d3c3f7f209.jpg",
+    "static/media/banner.jpg": "/react-js-dashboard/static/media/banner.13cd40e5c743c17d1984.jpg",
+    "static/media/product3.jpg": "/react-js-dashboard/static/media/product3.0d1203b2cec16b85ceea.jpg",
+    "static/media/product1.jpg": "/react-js-dashboard/static/media/product1.7e736ad635159669f94c.jpg",
+    "static/media/product2.jpg": "/react-js-dashboard/static/media/product2.8d7a898a3ca92993b410.jpg",
+    "index.html": "/react-js-dashboard/index.html",
+    "main.33148b1c.css.map": "/react-js-dashboard/static/css/main.33148b1c.css.map",
+    "main.b2349912.js.map": "/react-js-dashboard/static/js/main.b2349912.js.map"
   },
   "entrypoints": [
-    "static/css/main.637c8cc9.css",
-    "static/js/main.c796c9e1.js"
+    "static/css/main.33148b1c.css",
+    "static/js/main.b2349912.js"
   ]
 }
